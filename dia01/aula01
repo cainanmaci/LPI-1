@@ -1,1 +1,2 @@
+git clone <url-do-repo-do-github>git commit -m “” add mensagem de commit git push - envia o conteúdo para o repo git add - adicionar os arquivos no seu repo local cd - entra em um diretório mkdir - cria um novo diretório ls -l  = lista o conteúdo do diretório
 meu primeiro arquivo vim 
