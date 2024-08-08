@@ -1,0 +1,20 @@
+git clone <url-do-repo-do-github>
+git commit -m “” add mensagem de commit 
+git push - envia o conteúdo para o repo 
+git add - adicionar os arquivos no seu repo local 
+cd - entra em um diretório 
+mkdir - cria um novo diretório 
+ls -l  = lista o conteúdo do diretórioAdicionar conteúdo no arquivo: aula01 
+
+Como fazer isso? 
+- Utilizar o vim para manipular o arquivo 
+- ⁠acessar o arquivo e adicionar o conteúdo da mensagem anterior 
+- ⁠executar o comando git add nome do arquivo 
+- ⁠git commit 
+- ⁠git push 
+- ⁠validar o arquivo no githubComandos do vim: 
+vim nome_do_arquivo
+esc + i  = entrar no modo inserção 
+esq + q! = sair do arquivo sem salvar 
+esq + wq! = sair e salvar o conteúdo do arquivo 
+esq + u = desfazer a edição do arquivo.
