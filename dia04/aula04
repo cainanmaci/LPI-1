@@ -3,3 +3,14 @@ O que são comandos no Linux?
 O que são parâmetros de comando no Linux? 
 
 Exibir todos os arquivos em aula 01, aula02, aula03 com o comando cat sem sair do lugar
+
+questão(1) De maneira geral, os comandos Linux referem-se a instruções dadas ao sistema operacional Linux, em suas mais variadas distribuições, por meio de interfaces de linha de comando ou de um shell invocado em ambiente gráfico.
+
+questão(2) Parâmetros são como instruções adicionais que você dá um comando para ele execute uma tarefa especifica da maneira que você deseja
+
+ls listaos arquivos em um dretorio
+cd para andar entre os arquivos para fente e para tras entre os diretorios
+cd mais o nome do diretorio/ mais nome do arquivo (é o caminh)o abisoluto
+cd tabem por volta para os direterios anterior com .. ou ../ nome do diretorio
+cat extremamente util, que serve cocatenar arquivos 
+
